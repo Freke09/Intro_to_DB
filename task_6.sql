@@ -4,7 +4,7 @@ VALUES (
             (2),
             ("Blessing Malik"),
             ("bmalik@sandtech.com"),
-            ("124 Hppiness Ave.")
+            ("124 Happiness Ave.")
         ),
         (
             (3),
